@@ -19,4 +19,8 @@ public class GitTest {
     public static void test02(){
         System.out.println("h2");
     }
+
+    public static void test03(){
+        System.out.println("h3");
+    }
 }
